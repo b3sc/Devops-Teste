@@ -1,0 +1,15 @@
+Com a implementação de um modelo de DevOps, as equipes de desenvolvimento e operações não são
+mais separadas em silos. Às vezes, essas duas equipes são combinadas em uma só. Os engenheiros
+trabalham durante todo o ciclo de vida inteiro do aplicativo, da fase de desenvolvimento e testes à fase de
+implantação e operações, e desenvolvem várias qualificações não limitadas a uma única função.
+Em alguns modelos de DevOps, as equipes de controle de qualidade e segurança também podem
+aumentar sua integração com o desenvolvimento, as operações e todo o ciclo de vida dos aplicativos.
+Quando a segurança é a prioridade de todos em uma equipe de DevOps, isso é denominado às vezes
+DevSecOps.
+Essas equipes usam práticas para automatizar processos que historicamente sempre foram manuais e
+lentos. Eles usam uma pilha de tecnologia e ferramentas que os ajudam a operar e desenvolver aplicativos
+de modo rápido e confiável. Essas ferramentas também ajudam os engenheiros a realizar tarefas
+independentemente (por exemplo, implantação de código e provisionamento de infraestrutura) que
+normalmente exigiriam a ajuda de outras equipes, e isso aumenta ainda mais a velocidade da equipe.
+
+Bruno Eduardo - RA: 1800154
