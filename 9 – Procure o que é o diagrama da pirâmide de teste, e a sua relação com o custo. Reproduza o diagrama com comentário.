@@ -1,0 +1,16 @@
+Segundo Cohn, uma estratégia eficiente de testes automatizados deve contemplar testes em três níveis:
+Unidade, Serviço (Integração) e UI. Na base da pirâmide, temos uma grande quantidade testes de unidade,
+que devem ser a base de uma boa estratégia de testes automatizados. No topo, uma quantidade pequena
+de testes de UI, justamente para evitar os problemas que comentamos anteriormente. No meio, temos
+uma quantidade razoável de testes de serviço, que também podem ser chamados de testes de
+integração, API Tests, etc. Cohn, no artigo The Forgotten Layer of the Test Automation Pyramid, comenta
+sobre a importância desse nível de teste e seu papel em preencher o gap entre unidade e UI.
+Testes na camada de serviço testam, basicamente, os serviços da aplicação, “abaixo” da UI. Essa
+abordagem evita com que todo teste, além do teste de unidade, seja executado diretamente navegando
+pela interface do usuário. Com isso, em vez de executarmos testes exaustivos validando todas as regras de
+negócio pela interface, podemos fazer testes abaixo da UI. Esse tipo de teste tem sido muito importante,
+visto que muitas aplicações hoje em dia possuem interfaces Web e Mobile (smartphone, tablet), sendo
+necessário separar a interface da lógica da aplicação. Martin Fowler se refere a esses testes com o nome
+de Subcutaneous Tests.
+
+Matheus de Oliveira Rocha - RA: 1800464
