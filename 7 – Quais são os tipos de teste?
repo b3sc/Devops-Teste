@@ -1,0 +1,10 @@
+Testes Unitários
+Deve ser realizado quando for validado somente um componente ou módulo de software, isoladamente, determinando se o resultado obtido está de acordo com o especificado, geralmente simulando as dependências que uma unidade possui.
+Testes de Integração
+Têm por objetivo encontrar falhas de integração entre as unidades, e não mais em testar as funcionalidades isoladas da mesma. Esse processo deve avaliar a cooperação e a interação do software com outras aplicações, sejam internas ou externas.
+
+Testes de ponta a ponta
+São testes que validam todo tipo de comportamento possível dentro da aplicação, simulando a atividade do usuário final em um laboratório ou ambiente de homologação idêntico ao do ambiente de produção.
+
+Nome: Linic Henrique da Silva
+RA: 1801319
